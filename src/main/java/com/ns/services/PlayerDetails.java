@@ -23,7 +23,7 @@ public class getPlayerDetails {
 
                 JSONObject js = new JSONObject();
                 js.put("Name", "nihalvardh");
-                js.put("Channel","https://www.youtube.com/@nihalvardh")
+                js.put("Channel","https://www.youtube.com/@nihalvardh");
                  /* 
                 js.put("Calling Name", "nihalvardh");
                 js.put("DOB", "26-Oct-2014");
